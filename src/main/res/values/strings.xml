@@ -1,0 +1,14 @@
+<resources>
+    <string name="title_activity_stock_alert_picker">StockAlertPickerActivity</string>
+    <string name="price">Preço: %1$s</string>
+    <string name="preco_alvo">Preço alvo</string>
+    <string name="stock_avaliable">Dísponivel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="notifications">Notifications</string>
+    <string name="create_stock_alert">Criar alerta</string>
+    <string name="no_asset_added">Nenhum ativo adicionado</string>
+    <string name="target_price">Preço alvo: %1$s</string>
+    <string name="add">Adicionar</string>
+    <string name="assets">Ativos</string>
+</resources>
