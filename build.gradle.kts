@@ -48,9 +48,9 @@ android {
 
 dependencies {
 
-    implementation(project(":ui-components"))
-    implementation(project(":network"))
-    implementation(project(":analytics"))
+    implementation(project(":itau-investment-ui-components"))
+    implementation(project(":itau-investment-network"))
+    implementation(project(":itau-investment-analytics"))
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
